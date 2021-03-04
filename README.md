@@ -9,4 +9,6 @@ The project also integrates a simple user interface that offers the user the abi
 
 ## Setup
 
-Simply run the python script related to the project.
+Simply run the python script related to the project (`barnaby_brewhouse.py`)
+
+You must use the CSV provided for the data analysis.
